@@ -4227,3 +4227,5 @@
 			}
 
 		}
+/* añadido para la practica de entornos*/
+		#three, #four, #footer section {display:none};
