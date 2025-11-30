@@ -3829,6 +3829,8 @@
 				#banner .button {
 					width: 100%;
 				}
+				/*añadido para la práctica de Entornos de desarrollo*/
+				#banner b{color:white;font-weight: 900; !important}
 
 		}
 
@@ -4229,3 +4231,6 @@
 		}
 /* añadido para la practica de entornos*/
 		#three, #four, #footer section {display:none};
+
+		/*añadido por Jacinto*/
+	    #banner b{color:white;font-weight: 900; !important}  
